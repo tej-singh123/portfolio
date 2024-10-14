@@ -407,6 +407,27 @@ img {
 .portfolio-card:nth-child(3){
     background-image: url("assets/Screenshot\ \(109\).png");
 }
+.portfolio-card:nth-child(4){
+    background-image: url("assets/Screenshot\ \(122\).png");
+}
+
+
+.portfolio-card:nth-child(5){
+    background-image: url("assets/Screenshot\ \(121\).png");
+}
+.portfolio-card:nth-child(6){
+    background-image: url("assets/Screenshot\ \(124\).png");
+}
+.portfolio-card:nth-child(7){
+    background-image: url("assets/Screenshot\ \(123\).png");
+}
+
+.portfolio-card:nth-child(8){
+    background-image: url("assets/Screenshot\ \(125\).png");
+}
+
+
+
 
 .portfolio-card::before{
     content: "";
